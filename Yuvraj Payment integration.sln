@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yuvraj Payment integration", "Yuvraj Payment integration\Yuvraj Payment integration.csproj", "{2AD0AE3F-6FEA-448E-A462-2A1FAD2CEB38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yuvraj Payment integration.Tests", "Yuvraj Payment integration.Tests\Yuvraj Payment integration.Tests.csproj", "{528954B2-8A19-4F04-956E-61AFBA0C22CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AD0AE3F-6FEA-448E-A462-2A1FAD2CEB38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AD0AE3F-6FEA-448E-A462-2A1FAD2CEB38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AD0AE3F-6FEA-448E-A462-2A1FAD2CEB38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AD0AE3F-6FEA-448E-A462-2A1FAD2CEB38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{528954B2-8A19-4F04-956E-61AFBA0C22CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{528954B2-8A19-4F04-956E-61AFBA0C22CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{528954B2-8A19-4F04-956E-61AFBA0C22CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{528954B2-8A19-4F04-956E-61AFBA0C22CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C84888D-E307-4ECD-9B4F-593D8F9EE20A}
+	EndGlobalSection
+EndGlobal
